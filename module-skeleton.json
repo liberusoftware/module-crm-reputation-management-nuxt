@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-reputation-management-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-reputation-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-reputation-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/reputation-management.md",
+  "presentationPlan": "projects/crm/nuxt/reputation-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
